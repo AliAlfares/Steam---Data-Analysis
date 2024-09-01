@@ -48,7 +48,7 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 - Raghad Almalki 
 - Ahmed Alsubhi 
 - Fahad
-- Ali Alfaris
+- Ali Alfares
 - Hatoon Aloqaily
 
 
