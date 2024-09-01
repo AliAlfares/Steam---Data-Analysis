@@ -42,12 +42,25 @@ This analysis is crucial for gamers looking to optimize their gaming experience 
 
 ## Feature and Prediction Insights
 - **Feature Importance:** Discuss which features were most important in making predictions.
+
+  
 - **Prediction Analysis:** Provide insights into the predictions made by the model and any interesting patterns or observations.
+
+![insight1](https://github.com/user-attachments/assets/67da3c33-f05b-49f5-b70f-b018f1c70e16)
+(1****)
+![insight2](https://github.com/user-attachments/assets/b76a39b2-a4f0-49e9-b61a-2b86f240a8d2)
+(2****)
+
+![insight3 1](https://github.com/user-attachments/assets/93b87198-598b-4e8b-bdbb-ea5284c632a5)
+(3.1**)
+
+![insight3 2](https://github.com/user-attachments/assets/ef41d1ee-7f1a-43f3-9df5-ba1d359629de)
+(3.2**)
 
 ## Team Members
 - Raghad Almalki 
 - Ahmed Alsubhi 
-- Fahad
+- Fahad Alsaadi
 - Ali Alfares
 - Hatoon Aloqaily
 
